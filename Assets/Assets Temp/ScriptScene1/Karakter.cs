@@ -7,17 +7,19 @@ public class Karakter : MonoBehaviour
     public GameObject canvas_mc;
     bool sedanglompat;
     float delaylompat;
+    public Vector2 lastcheckpoin;
     // Animator an;
 
     Rigidbody2D rb;
     float dx;
     Vector2 pos;
     Vector2 flip;Animator an;
+    bool isfalling;
     // Start is called before the first frame update
     void Start()
     {
         // an=gameObject.GetComponent<Animator>();
-        delaylompat=70f;
+        delaylompat=100f;
         sedanglompat=false;
         flip=transform.localScale;
         rb=gameObject.GetComponent<Rigidbody2D>(); 
@@ -29,7 +31,7 @@ public class Karakter : MonoBehaviour
     {        
         if(Input.GetKeyDown(KeyCode.A))
         {
-            flip.x=-1;
+            if(flip.x>0)flip.x*=-1;            
             transform.localScale=flip;
             dx=-3;
              an.SetBool("SedangJalan",true);
@@ -37,7 +39,8 @@ public class Karakter : MonoBehaviour
         }
         if(Input.GetKeyDown(KeyCode.D))
         {
-            flip.x=1;
+            if(flip.x<0)flip.x*=-1;
+            
             transform.localScale=flip;
             dx=3;
              an.SetBool("SedangJalan",true);
@@ -56,17 +59,20 @@ public class Karakter : MonoBehaviour
         rb.velocity = new Vector2(dx,rb.velocity.y);
 
     }
-    private void FixedUpdate() {
-        if (sedanglompat)
-        {
-            delaylompat--;
-            if(delaylompat<0)
-            {
-                delaylompat=70f;
-                sedanglompat=false;
-                an.SetBool("sedangLompat",false);
-            }
+    private void FixedUpdate() {       
+        if(rb.velocity.y<-0.1 && sedanglompat){
+            an.SetBool("sedangLompat",true);
+            isfalling=true;
         }
+        else if(rb.velocity.y==0 && !sedanglompat)
+        {            
+            an.SetBool("sedangLompat",false);             
+            isfalling=false;
+        }
+        if(rb.velocity.y==0 && sedanglompat){
+            sedanglompat=false;
+        }
+
     }
     // Start is called before the first frame update    
 }
