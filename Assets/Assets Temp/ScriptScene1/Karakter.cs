@@ -7,9 +7,9 @@ public class Karakter : MonoBehaviour
     public GameObject canvas_mc;
     bool sedanglompat;
     float delaylompat;
-    public Vector2 lastcheckpoin;
+    public Vector3 lastcheckpoin;
     // Animator an;
-
+    int jumpHeight=10;
     Rigidbody2D rb;
     float dx;
     Vector2 pos;
@@ -54,7 +54,9 @@ public class Karakter : MonoBehaviour
             // gameObject.GetComponent<SoundEffect>().playSound(1,false,1f);
             sedanglompat=true;
             an.SetBool("sedangLompat",true);
-            rb.AddForce(new Vector2(rb.velocity.x,6),ForceMode2D.Impulse);
+            // transform.Translate(Vector3.up * 260 * Time.deltaTime, Space.World);
+            // gameObject.GetComponent<Rigidbody2D>().velocity.y = jumpHeight;
+            rb.AddForce(new Vector2(rb.velocity.x,8),ForceMode2D.Impulse);
         }
         rb.velocity = new Vector2(dx,rb.velocity.y);
 

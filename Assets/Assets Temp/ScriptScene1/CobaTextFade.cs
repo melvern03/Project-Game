@@ -17,7 +17,7 @@ public class CobaTextFade : MonoBehaviour
             textBawah.enabled=true;
             TextFade("Tekan Spacebar Pada Keyboard untuk melompat");
        }
-   }
+    }
     void Start()
     {
        
