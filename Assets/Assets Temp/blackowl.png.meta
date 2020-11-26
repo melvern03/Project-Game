@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 56f516b9e94a79441a3adaf52daf6e68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7459326937011083903
+    second: blackowl_0
+  - first:
+      213: 3328808423887984654
+    second: blackowl_1
+  - first:
+      213: 737766156006942328
+    second: blackowl_2
+  - first:
+      213: -387641542567737438
+    second: blackowl_3
+  - first:
+      213: 5566043130476675363
+    second: blackowl_4
+  - first:
+      213: -6259153946765768538
+    second: blackowl_5
+  - first:
+      213: 755511351422780090
+    second: blackowl_6
+  - first:
+      213: 982656062997092991
+    second: blackowl_7
+  - first:
+      213: 8341363137375167271
+    second: blackowl_8
+  - first:
+      213: 5922686432969828035
+    second: blackowl_9
+  - first:
+      213: 3833607504701933121
+    second: blackowl_10
+  - first:
+      213: 1744506612521434490
+    second: blackowl_11
+  - first:
+      213: 8619274362960823211
+    second: blackowl_12
+  - first:
+      213: 1706736943164189570
+    second: blackowl_13
+  - first:
+      213: 5302458268780527173
+    second: blackowl_14
+  - first:
+      213: 2083596936142673464
+    second: blackowl_15
+  - first:
+      213: 6007822012612083696
+    second: blackowl_16
+  - first:
+      213: -2824559777105239225
+    second: blackowl_17
+  - first:
+      213: -6707090506365821554
+    second: blackowl_18
+  - first:
+      213: -1375205933360045412
+    second: blackowl_19
+  - first:
+      213: 7433516063109335176
+    second: blackowl_20
+  - first:
+      213: -8878299233360814240
+    second: blackowl_21
+  - first:
+      213: -6802137035796355019
+    second: blackowl_22
+  - first:
+      213: -3434112234926147836
+    second: blackowl_23
+  - first:
+      213: 1793629309692346454
+    second: blackowl_24
+  - first:
+      213: -9047813488520569211
+    second: blackowl_25
+  - first:
+      213: 1895308066902446878
+    second: blackowl_26
+  - first:
+      213: 5949861574702811744
+    second: blackowl_27
+  - first:
+      213: -9023065582943445979
+    second: blackowl_28
+  - first:
+      213: -9009036657986848734
+    second: blackowl_29
+  - first:
+      213: 7409571281307161155
+    second: blackowl_30
+  - first:
+      213: 8144597467138610761
+    second: blackowl_31
+  - first:
+      213: 2912920062146296809
+    second: blackowl_32
+  - first:
+      213: -7408250663597308787
+    second: blackowl_33
+  - first:
+      213: 6965243175983613560
+    second: blackowl_34
+  - first:
+      213: -7278243650364461110
+    second: blackowl_35
+  - first:
+      213: 2965236118931339954
+    second: blackowl_36
+  - first:
+      213: 2455765692101397781
+    second: blackowl_37
+  - first:
+      213: 183478973922993742
+    second: blackowl_38
+  - first:
+      213: 3158334925804170087
+    second: blackowl_39
+  - first:
+      213: 3416208000445862882
+    second: blackowl_40
+  - first:
+      213: -526183337638275793
+    second: blackowl_41
+  - first:
+      213: 3143098666188779333
+    second: blackowl_42
+  - first:
+      213: 6281395209695205374
+    second: blackowl_43
+  - first:
+      213: 4198515919214471482
+    second: blackowl_44
+  - first:
+      213: 1771833869598023592
+    second: blackowl_45
+  - first:
+      213: 8741872264242220945
+    second: blackowl_46
+  - first:
+      213: 5100563470548834504
+    second: blackowl_47
+  - first:
+      213: -7530791003741630265
+    second: blackowl_48
+  - first:
+      213: -1281271577690282772
+    second: blackowl_49
+  - first:
+      213: 6967535819085117416
+    second: blackowl_50
+  - first:
+      213: -9007317725485260649
+    second: blackowl_51
+  - first:
+      213: -4619822418942291072
+    second: blackowl_52
+  - first:
+      213: 4710767182729302837
+    second: blackowl_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackowl_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185a3f70ca52b7890800000000000000
+      internalID: -7459326937011083903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08db2fef9d423e20800000000000000
+      internalID: 3328808423887984654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 334
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8766918f8621d3a00800000000000000
+      internalID: 737766156006942328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c0132212de9af0800000000000000
+      internalID: -387641542567737438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c09cacbe8e3d40800000000000000
+      internalID: 5566043130476675363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 334
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8ca88d5a40329a0800000000000000
+      internalID: -6259153946765768538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 326
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2845d329d1c7a00800000000000000
+      internalID: 755511351422780090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 336
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5353ab7813ad00800000000000000
+      internalID: 982656062997092991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 334
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e8c9349972c370800000000000000
+      internalID: 8341363137375167271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 262
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c621395eeb913250800000000000000
+      internalID: 5922686432969828035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146c706d6b5b33530800000000000000
+      internalID: 3833607504701933121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 270
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7df8a3758bb53810800000000000000
+      internalID: 1744506612521434490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba349e1cd50dd9770800000000000000
+      internalID: 8619274362960823211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 269
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6656053c8fa710800000000000000
+      internalID: 1706736943164189570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54efefaa3bd169940800000000000000
+      internalID: 5302458268780527173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 262
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83650e1cf5c6aec10800000000000000
+      internalID: 2083596936142673464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 272
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff3872a42106350800000000000000
+      internalID: 6007822012612083696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 270
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74329ce09d52dc8d0800000000000000
+      internalID: -2824559777105239225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9bab58b0abe2a0800000000000000
+      internalID: -6707090506365821554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92a0116d794aece0800000000000000
+      internalID: -1375205933360045412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888cac59977292760800000000000000
+      internalID: 7433516063109335176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 206
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd7e1f2e1f9c480800000000000000
+      internalID: -8878299233360814240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53864dbb764f991a0800000000000000
+      internalID: -6802137035796355019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 202
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4077766fd159750d0800000000000000
+      internalID: -3434112234926147836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 193
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65001f6aa5044e810800000000000000
+      internalID: 1793629309692346454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 197
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e5ebec195bf6280800000000000000
+      internalID: -9047813488520569211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 199
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1317a325ac7d4a10800000000000000
+      internalID: 1895308066902446878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a48e61497229250800000000000000
+      internalID: 5949861574702811744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c5a9798a1a7c280800000000000000
+      internalID: -9023065582943445979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b83834e879f280800000000000000
+      internalID: -9009036657986848734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 142
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342df30a2d514d660800000000000000
+      internalID: 7409571281307161155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d7539e3c670170800000000000000
+      internalID: 8144597467138610761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 134
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebb65bfc55cc6820800000000000000
+      internalID: 2912920062146296809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840b35a54b903990800000000000000
+      internalID: -7408250663597308787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87687bed3c389a060800000000000000
+      internalID: 6965243175983613560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 129
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfa84736fb7efa90800000000000000
+      internalID: -7278243650364461110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7f082a82a62920800000000000000
+      internalID: 2965236118931339954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d8b41c2e1a41220800000000000000
+      internalID: 2455765692101397781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 81
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46ee689729db8200800000000000000
+      internalID: 183478973922993742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b6446a1e8a4db20800000000000000
+      internalID: 3158334925804170087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 70
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35c69931fc86f20800000000000000
+      internalID: 3416208000445862882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 70
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f255751da0f92b8f0800000000000000
+      internalID: -526183337638275793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54faf2485978e9b20800000000000000
+      internalID: 3143098666188779333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef719b7b9affb2750800000000000000
+      internalID: 6281395209695205374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_44
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 65
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e99cdbff144a30800000000000000
+      internalID: 4198515919214471482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af556e4481d69810800000000000000
+      internalID: 1771833869598023592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f4ff5028e515970800000000000000
+      internalID: 8741872264242220945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89568d377d8c640800000000000000
+      internalID: 5100563470548834504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0d5406b714d7790800000000000000
+      internalID: -7530791003741630265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce467fed942083ee0800000000000000
+      internalID: -1281271577690282772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7f06079e8a1b060800000000000000
+      internalID: 6967535819085117416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7902f5160449ff280800000000000000
+      internalID: -9007317725485260649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0831f81acf713efb0800000000000000
+      internalID: -4619822418942291072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackowl_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533d5224bc1006140800000000000000
+      internalID: 4710767182729302837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -43,7 +43,7 @@ public class Karakter : MonoBehaviour
             
             transform.localScale=flip;
             dx=3;
-             an.SetBool("SedangJalan",true);
+            an.SetBool("SedangJalan",true);
         }
         if (Input.GetKeyUp(KeyCode.A)||Input.GetKeyUp(KeyCode.D))
         {

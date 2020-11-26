@@ -2,33 +2,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-
-public class Checkpoint : MonoBehaviour
+public class StartEnemyGerak : MonoBehaviour
 {
-    GameObject karakter;
-     public TextMeshProUGUI textBawah;// Text Canvas
+    public GameObject Enemies;
+    public TextMeshProUGUI textBawah;// Text Canvas
     int fadeInCheck;
     float fadeDelay;
-    // Start is called before the first frame update
-    // void Start()
-    // {
-    //     karakter=GameObject.Find("karakter");        
-    // }
     private void OnTriggerEnter2D(Collider2D other) {
-        if(other.name=="karakter"){
-            if(karakter.GetComponent<Karakter>().lastcheckpoin!=gameObject.transform.position){
-                textBawah.enabled=true;
-                TextFade("Checkpoint !");
-            }
-            karakter.GetComponent<Karakter>().lastcheckpoin=gameObject.transform.position;
+       if(other.name=="karakter"){
+            textBawah.enabled=true;
+            TextFade("Awas Musuh Didepan bisa mengejarmu !");
+            Enemies.GetComponent<EnemiesKejar>().targets="karakter";
        }
     }
-    
-    
     void Start()
     {
-        karakter=GameObject.Find("karakter");        
-        fadeDelay = 75f;
+       
+        fadeDelay = 100f;
         fadeInCheck = 0;
     }
 
@@ -63,12 +53,9 @@ public class Checkpoint : MonoBehaviour
             fadeDelay--;
             if (fadeDelay <= 0)
             {
-                fadeDelay = 75f;
+                fadeDelay = 100f;
                 fadeInCheck = 3;
             }
         }
     }
-
-
-    
 }
