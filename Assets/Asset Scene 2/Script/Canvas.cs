@@ -16,4 +16,9 @@ public class Canvas : MonoBehaviour
     {
         
     }
+
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
 }

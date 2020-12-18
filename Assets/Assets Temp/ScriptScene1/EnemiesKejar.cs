@@ -51,4 +51,5 @@ public class EnemiesKejar : MonoBehaviour
             Karakter.transform.position=Karakter.GetComponent<Karakter>().lastcheckpoin;
         }
     }
+
 }

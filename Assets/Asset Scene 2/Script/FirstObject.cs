@@ -22,7 +22,7 @@ public class FirstObject : MonoBehaviour
         {
             first = true;
             text.enabled = true;
-            TextFade("Anda harus mencari tombol untuk membuka pintu agar anda bisa melanjutkan perjalanan anda\nHati hati batu bisa berjatuhan dari atas anda");
+            TextFade("Anda harus mencari tuas untuk membuka pintu agar anda bisa melanjutkan perjalanan anda\nHati hati batu bisa berjatuhan dari atas anda");
         }
     }
     public void TextFade(string nama)

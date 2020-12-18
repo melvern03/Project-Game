@@ -5,6 +5,9 @@ TextureImporter:
   - first:
       213: 9008842724097011414
     second: walk-1_0
+  - first:
+      213: 5587247543711915178
+    second: walk-1_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -105,8 +108,8 @@ TextureImporter:
       name: walk-1_0
       rect:
         serializedVersion: 2
-        x: 165
-        y: 54
+        x: 9
+        y: 63
         width: 284
         height: 479
       alignment: 0
@@ -116,8 +119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6de2a270ab6d50d70800000000000000
-      internalID: 9008842724097011414
+      spriteID: aac5f1bd904e98d40800000000000000
+      internalID: 5587247543711915178
       vertices: []
       indices: 
       edges: []

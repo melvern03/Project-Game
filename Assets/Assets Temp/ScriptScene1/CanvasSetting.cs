@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.Video;
 
 
 public class CanvasSetting : MonoBehaviour
 {
     
-    public TextMeshProUGUI textBawah;    
+    public TextMeshProUGUI textBawah;
+    public VideoPlayer vp;
     // public GameObject panel_bawah;
     
     int fadeInCheck;
@@ -61,5 +63,9 @@ public class CanvasSetting : MonoBehaviour
         }
     }
 
-    
+
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
 }

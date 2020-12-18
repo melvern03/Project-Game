@@ -2,11 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
+using UnityEngine.Video;
 
 
 public class TextDoor : MonoBehaviour
 {
     public TextMeshProUGUI textBawah;// Text Canvas
+    public VideoPlayer vp;
+
+    public GameObject btn;
+    public AudioSource Music;
+    public GameObject panel;
     int fadeInCheck;
     float fadeDelay;
     // public GameObject panelbawah;
@@ -14,13 +21,21 @@ public class TextDoor : MonoBehaviour
    
    private void OnTriggerEnter2D(Collider2D other) {
        if(other.name=="karakter"){
-            textBawah.enabled=true;
-            TextFade("Horeeeeeeee");
-       }
+            btn.SetActive(false);
+            Music.Stop();
+            panel.SetActive(true);
+            vp.enabled = true;
+            vp.Play();
+            StartCoroutine("waitVideo");
+        }
+    }
+    IEnumerator waitVideo()
+    {
+        yield return new WaitForSeconds(75f);
+        SceneManager.LoadScene(2);
     }
     void Start()
     {
-       
         fadeDelay = 150f;
         fadeInCheck = 0;
     }

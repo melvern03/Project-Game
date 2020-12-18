@@ -6,7 +6,7 @@ using TMPro;
 public class Checkpoint : MonoBehaviour
 {
     GameObject karakter;
-     public TextMeshProUGUI textBawah;// Text Canvas
+    public TextMeshProUGUI textBawah;// Text Canvas
     int fadeInCheck;
     float fadeDelay;
     // Start is called before the first frame update
